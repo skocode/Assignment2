@@ -1,0 +1,40 @@
+﻿html {
+    background-color: black;
+    color: white;
+}
+
+body {
+    width:90%;
+    max-width:1000px;
+    margin: 20px auto;
+    border: 5px solid #B8008A;
+}
+
+h1 {
+    border: 5px dashed #66FF33;
+    color: #B8008A;
+    text-align: center; 
+    padding: 10px;
+    width: 500px;
+    margin:20px auto;
+}
+
+table {
+    border: 3px dashed #66FF33;
+    padding: 10px;
+    margin: 0 auto 50px auto;
+}
+
+h2, h3 {
+    margin: 30px auto 10px auto;
+    width: 500px;
+    text-align:center;
+}
+
+.subbutton {
+    text-align: right;
+}
+
+.reqfield {
+    color: #FF1919;
+}
